@@ -5,4 +5,4 @@
 #
 base:
   '*':
-    - dns
+    - init.env_init
